@@ -1,0 +1,34 @@
+body
+{ background-color: peru; 
+}
+
+h1 { color: firebrick;
+     font-family: sans-serif; 
+    position: relative;
+    left: 40vw;
+    margin: 0;
+}
+.controls { 
+    position: absolute;
+    top: 44vw;
+    left: 37vw;
+    width: 390;
+    height: 60;
+}
+
+canvas 
+{ margin:auto; 
+}
+
+#right{  
+
+height: 60px;
+width: 130px}
+#left{  
+
+height: 60px;
+width: 130px}
+#jump{  
+
+height: 30px;
+width: 130px}
